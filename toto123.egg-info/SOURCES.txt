@@ -1,0 +1,8 @@
+README.md
+setup.cfg
+setup.py
+toto123.egg-info/PKG-INFO
+toto123.egg-info/SOURCES.txt
+toto123.egg-info/dependency_links.txt
+toto123.egg-info/not-zip-safe
+toto123.egg-info/top_level.txt
